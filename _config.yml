@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Mark Innes
+tagline:          'Dinosaur Supporter'
+description:      'Suppose I should have a website...'
+url:              http://markinnes.co.uk
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Mark Innes'
+  url:            https://twitter.com/innesm4
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/innesm4/innesm4.github.io
