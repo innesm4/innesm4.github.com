@@ -1,6 +1,6 @@
 var $ = this.jQuery.noConflict();
 
-var Mark = {
+var Dinosaur = {
     init: function() {
 
         (function(document) {
@@ -19,7 +19,9 @@ var Mark = {
             }, false);
         })(document);
 
+        $('body').dinosaur_konami();
+
     }
 };
 
-Mark.init();
+Dinosaur.init();

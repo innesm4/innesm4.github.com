@@ -16,7 +16,7 @@ module.exports = function(grunt) {
             dist: {
                 src: [
                     'public/js/vendor/modernizr/modernizr.js',
-                    'public/js/vendor/selectivizr/selectivizr.js',
+                    'public/js/vendor/dinosaur_konami/dinosaur_konami.js',
                     'public/js/global.js'
                 ],
                 dest: 'public/js/build/production.js',
