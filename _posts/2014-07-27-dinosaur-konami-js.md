@@ -8,7 +8,7 @@ comments: true
 
 After long design and development process I am pleased to announce the first release of <a href='http://innesm4.github.io/dinosaur_konami.js'>Dinosaur Konami JS</a> version 1.0.
 
-Dinosaur Konami JS is a a problem solver. 
+Dinosaur Konami JS is a problem solver. 
 
 Have you every wanted to put a dinosaur on your corporate website but couldn't get the idea past management? 
 
