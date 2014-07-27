@@ -78,6 +78,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  line-height: 1.5rem;
 }
 
 strong {
@@ -600,10 +601,6 @@ a.pagination-item:hover {
 }
 
 /* Prevent scroll on narrow devices */
-
-html, body {
-  overflow-x: hidden;
-}
 
 html {
   font-family: "Open Sans", Georgia, "Times New Roman", serif;
