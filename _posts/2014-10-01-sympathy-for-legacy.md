@@ -4,7 +4,7 @@ title: Sympathy for the Legacy
 comments: true
 ---
 <p><strong>
-	Imagine you a legacy application. You have been discarded, berated and after being constantly abused, someone hates every second they spend with you. Every single developer who is forced to pay you the slightest bit of attention will constantly remind you how you would have been much better if they had built you. 
+	Imagine you a legacy application. You have been discarded, berated and after being constantly abused, developers hate every second they spend with you. Every single developer who is forced to pay you the slightest bit of attention will constantly remind you how you would have been much better if they had built you. 
 </strong>
 </p>
 <p>
