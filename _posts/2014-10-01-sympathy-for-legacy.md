@@ -10,7 +10,7 @@ comments: true
 <p>
 The word legacy in software is defined by Google as <i>"of or pertaining to old or outdated computer hardware, software, or data that, while still functional, does not work well with up-to-date systems."</i></p>
 
-<p>It's important to remember that legacy means <i>"still functional"</i> which is true for every <i>"legacy"</i> piece of software I have ever encountered. I am as guilty as most when I look at old code and think the previous developer had their brain surgically removed when adding that particular feature that I now have to fix.</p>
+<p>It's important to remember that legacy means <i>"still functional"</i> which is true for every <i>"legacy"</i> piece of software I have ever encountered, it always still works and was approved at the time as being good enough. I am as guilty as most when I look at old code and think the previous developer had their brain surgically removed when adding that particular feature that I now have to fix.</p>
 
 <p>
 Yet as I gain more experience in the industry, I realise that the previous developer may have been under pressure to get the thing out the door, or the budget may have been cut drastically by the client last minute, or the project specification wasn't up to scratch, or the design may have been confusing, or the developer may have spent all the allotted time on this other insignificant feature that the client thought was very important but turned out to be the opposite.</p>
