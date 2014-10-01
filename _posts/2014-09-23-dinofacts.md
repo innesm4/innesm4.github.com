@@ -18,4 +18,3 @@ This one of a kind <a href="https://chrome.google.com/webstore/detail/dinofacts/
 
 Please head over to the Chrome Webstore to <a href="https://chrome.google.com/webstore/detail/dinofacts/opnccejldomblijdlfdnifdjeadmejok">enhance your browser.</a>
 
-
