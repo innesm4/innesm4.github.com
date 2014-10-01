@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="message">
-  Web Developer from Aberdeen that enjoys the inner workings of Dinosaurs.
+  Web Developer from Aberdeen, Scotland that enjoys the inner workings of Dinosaurs. Graduate of the Robert Gordons University with a 1st Class Honours in Multimedia Development.
 </p>
 
 ## Things I like:
