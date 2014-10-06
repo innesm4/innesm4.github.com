@@ -11,9 +11,10 @@ html, body {
 }
 
 html {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 500;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.1;
 }
 
 @media (min-width: 38em) {
@@ -384,7 +385,7 @@ tbody tr:nth-child(odd) {
   /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -603,12 +604,12 @@ a.pagination-item:hover {
 /* Prevent scroll on narrow devices */
 
 html {
-  font-family: "Open Sans", Georgia, "Times New Roman", serif;
+  font-family: "Roboto", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 500;
   color: #313131;
   letter-spacing: -0.025rem;
 }
@@ -730,7 +731,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: .875rem;
   /* 15px */
   color: rgba(255, 255, 255, 0.6);
@@ -964,7 +965,7 @@ a.sidebar-nav-item {
   /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
