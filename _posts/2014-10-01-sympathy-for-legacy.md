@@ -32,5 +32,5 @@ Deployments are hard and setting up everything to work in the exact same way loc
 <p>
 Using testing frameworks can be a timesaver, but they also take a lot of time to learn and get up to scratch with. I use <a href="http://karma-runner.github.io/">Karma</a> on the Front and <a href="http://codeception.com/">Codeception</a> with Laravel. I wouldn't in anyway claim to know more that 5% of what these powerful testing frameworks can do, but having basic acceptance tests hitting views that trigger when new code is added saves a lot of time when compared with manually checking or wondering <i>"did I break anything?"</i>. When these tests are rolled into to a boilerplate you can begin testing your code as soon as you start and  will pass these simple tests onto any future developers that may be forced to work with your legacy code.</p>
 <p>
-Have sympathy for legacy applications and the developers who created them...its <i>usually</i> wasn't their fault!
+Have sympathy for legacy applications and the developers who created them...it <i>usually</i> wasn't their fault!
 </p>
