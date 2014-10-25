@@ -5,6 +5,10 @@ comments: true
 ---
 **After listening to [Greg Hoyna Kozakiewicz](https://twitter.com/pencilrebel), the Head of Design and User Research at The Scottish Government, talk at the [Northern Lights Conference](http://northernlightsconf.co.uk/), I was left in awe of the processes, practices and procedures that their development team followed. Greg talked about the some of the challenges faced during the development of the new[myscot.gov](https://alpha.mygov.scot/) website and the immense amount of thought, research and consideration that goes into designing ubiquitous user experiences for an end user.**
 
+<div class="image-responsive">
+    <img src="{{ site.baseurl }}public/img/nlconf2014.jpg" />
+</div>
+
 There was one thing in particular that stood out in the presentation. User Stories.
 
 User stories help the collection and analysis of user research to allow a design team to make informed decisions and trigger creative concepts. A good user story should include the outcomes from personas, user journeys and information architecture. A user story should define who a user is, what they want to achieve and the motivation behind that.
