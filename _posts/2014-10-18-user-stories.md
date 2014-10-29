@@ -3,7 +3,7 @@ layout: post
 title: User Stories
 comments: true
 ---
-**After listening to [Greg Hoyna Kozakiewicz](https://twitter.com/pencilrebel), the Head of Design and User Research at The Scottish Government, talk at the [Northern Lights Conference](http://northernlightsconf.co.uk/), I was left in awe of the processes, practices and procedures that their development team followed. Greg talked about the some of the challenges faced during the development of the new[myscot.gov](https://alpha.mygov.scot/) website and the immense amount of thought, research and consideration that goes into designing ubiquitous user experiences for an end user.**
+**After listening to [Greg Hoyna Kozakiewicz](https://twitter.com/pencilrebel), the Head of Design and User Research at The Scottish Government, talk at the [Northern Lights Conference](http://northernlightsconf.co.uk/), I was left in awe of the processes, practices and procedures that their development team followed. Greg talked about the some of the challenges faced during the development of the new [myscot.gov](https://alpha.mygov.scot/) website and the immense amount of thought, research and consideration that goes into designing ubiquitous user experiences for an end user.**
 
 <div class="image-responsive">
     <img src="{{ site.baseurl }}public/img/nlconf2014.jpg" />
