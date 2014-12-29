@@ -16,6 +16,7 @@ title: About Me
 * Ionic
 * Automating everything
 * DevOps
+* Meteor
 
 ## Projects:
 
